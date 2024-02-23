@@ -1,0 +1,4 @@
+﻿I’m learning Python.
+I’ll get hands-on experience by doing 
+lots of programming exercises and projects
+
